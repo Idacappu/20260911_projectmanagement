@@ -1,0 +1,6 @@
+{
+  "name": "ProTrack 專案管理與 RFI 追蹤系統",
+  "description": "營建工程與大型專案管理專案看板、OpenProject 規格工程甘特圖排程、RFI 資訊需求單追蹤、SLA 逾期催辦、剪貼簿貼圖與線上 Canvas 標註協作系統",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
